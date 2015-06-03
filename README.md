@@ -1,3 +1,7 @@
+# gulp-usemin FORK
+> This fork is soly to be able to incorporate dbow's fix for the outputRelativePath option.  Once his code is merged into a release branch this fork can be killed.
+
+
 # gulp-usemin
 > Replaces references to non-optimized scripts or stylesheets into a set of HTML files (or any templates/views).
 
